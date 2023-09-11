@@ -1,34 +1,23 @@
 
 ملاحظة: يجب تعبئة هذا الملف بمعلومات المشروع، يمكنك اختيار اللغة. تأكد من مسح اللغة الأخرى والتعليقات الجانبية 
-> ⬇️ تعبئة معلومات المشروع بالعربية  
+
 
 <div dir="rtl">
   
-### اسم الطالب
-
-
-### اسم المشروع
-
-
-# شرح الفكرة
-المشكلة والحلول المطروحة إن وجدت
-
-
-# الأعمال المستقبلية
 
 
 </div>
 
-> Fill out project information in English ⬇️
-### Student Name
 
 
-### Project Name
-
-# Idea
-Problem and solutions if found 
+Student Name : Ibram Sameh Rezk
 
 
-# Future Work 
+Project Name : File sorter
 
+ 
+Idea : the program sorts the files that have the same type in the folder
+
+
+Future Work  : In the future I will make the program smarter that it sorts the similar files together
 
