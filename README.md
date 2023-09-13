@@ -3,21 +3,21 @@
 
 
 <div dir="rtl">
-  
+  اسم الطالب : ابرام سامح رزق
 
+
+
+اسم المشروع : منظم الملفات 
+
+
+
+الفكرة : برنامج ينظم الملفات التي لها نفس النوع داخل الملف 
+
+
+
+الاعمال المستقبلية : في المستقبل هريبط البرنامج بالذكاء الاصطناعي بحيث يتعرف على نوع الموضوع عند البحث و يظهر لك كل الملفات المتعلقة بالموضوع
 
 </div>
 
 
-
-Student Name : Ibram Sameh Rezk
-
-
-Project Name : File sorter
-
- 
-Idea : the program sorts the files that have the same type in the folder
-
-
-Future Work  : In the future I will make the program smarter that it sorts the similar files together
 
